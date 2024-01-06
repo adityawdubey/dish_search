@@ -14,7 +14,7 @@ This Django application allows users to search for dishes based on their names. 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/django-search-app.git
+   git clone https://github.com/adityawdubey/dish_search.git
    cd django-search-app
 
 
