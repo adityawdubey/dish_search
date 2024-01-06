@@ -2,6 +2,10 @@
 
 This Django application allows users to search for dishes based on their names. It uses a file-based SQLite database to store and retrieve dish information.
 
+<img width="1438" alt="Screenshot 2024-01-06 at 11 22 45 PM" src="https://github.com/adityawdubey/dish_search/assets/88245579/dc135a33-8f18-4e84-b8d3-f0acc2986bfa">
+<img width="1438" alt="Screenshot 2024-01-06 at 11 23 01 PM" src="https://github.com/adityawdubey/dish_search/assets/88245579/7fc84bee-aa0c-42f8-ab78-b23f410bd222">
+
+
 ## Getting Started
 
 ### Prerequisites
